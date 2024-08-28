@@ -1,4 +1,8 @@
 # Ignore some other files or directories
 #frontend/
+# If you only want to ignore specific files or subdirectories, specify them here
+# Example to ignore everything but allow '1_frontend' directory
+# *
+# !1_frontend/
 
 
